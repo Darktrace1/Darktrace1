@@ -1,5 +1,6 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=center&text=%20Jin%20Bum%20Kim&fontSize=80)
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=%20Jin%20Bum%20Kim&&fontAlignY=45&fontSize=85&fontColor=89f7fe)
   
 <h2 align="center">Hi there 👋</h2>
 
