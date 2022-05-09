@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=%20Jin%20Bum%20Kim&&fontAlignY=45&fontSize=85&fontColor=89f7fe)
   
 <h2 align="center">Hi there 👋</h2>
-
+<br>
 <p align="center">
   <a href="https://www.instagram.com/woo0_hooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kk_jbyl/"/></a>&nbsp
   <a href="mailto:jinbum9958@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jinbum9958@gmail.com"/></a>
@@ -28,8 +28,9 @@
 
 <p align="right">
   
+  ![Darktrace1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darktrace1&theme=radical)
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darktrace1&layout=compact)
   
-  ![Darktrace1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darktrace1&theme=radical)
 </p>
 </div>
