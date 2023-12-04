@@ -14,15 +14,20 @@
 <h3 align="center">🛠 Tech-Stack 📚</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp
-  <br>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GO-00ADD8?style=flat-square&logo=Go&logoColor=black">
   <br>
+  <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/gin-008ECF?style=flat-square&logo=gin&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=aws&logoColor=white">
+  <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
 </p>
 
 <br>
