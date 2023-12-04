@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/GO-00ADD8?style=flat-square&logo=Go&logoColor=black">
   <br>
   <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/gin-008ECF?style=flat-square&logo=gin&logoColor=white">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white">
